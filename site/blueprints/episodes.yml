@@ -1,11 +1,14 @@
-title: Projects
+title: Episodes
 pages:
-  template: project
-files: false
+  template: episodes
+files: true
 fields:
   title:
     label: Title
     type:  text
-  text:
-    label: Text
+  shownotes:
+    label: Show Notes
     type:  textarea
+  libsynlink:
+    label:  Libsyn Link
+    type:   text
