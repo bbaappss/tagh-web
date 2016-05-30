@@ -1,6 +1,6 @@
-title: Projects
+title: Themes
 pages:
-  template: project
+  template: themes
 files: false
 fields:
   title:
@@ -9,3 +9,6 @@ fields:
   text:
     label: Text
     type:  textarea
+  soundcloud:
+    label: Soundcloud Link
+    type: text
