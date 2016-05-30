@@ -3,7 +3,7 @@
   <main class="main" role="main">
  
     <div class="episode">
-	<?php foreach($page->children()->visible()->flip() as $episode): ?>
+	<?php foreach($page->children()->visible() as $episode): ?>
   <article>
     <h1><?php echo $episode->title()->kirbytext() ?></h2>
     <p><?php echo $episode->notes()->kirbytext() ?></p>
