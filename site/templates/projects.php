@@ -1,16 +1,10 @@
-<?php snippet('header') ?>
+<h2>Episodes</h2>
 
-  <main class="main" role="main">
-
-    <div class="text">
-      <h1><?php echo $page->title()->html() ?></h1>
-      <?php echo $page->text()->kirbytext() ?>
-    </div>
-
-    <hr>
-
-    <?php snippet('projects') ?>
-
-  </main>
-
-<?php snippet('footer') ?>
+<ul class="teaser cf">
+	<?php foreach($data->children()->visible() as $episode): ?>
+  <li>
+    <h3><a href="<?php echo $project->url() ?>"><?php echo $project->title()->html() ?></a></h3>
+    <?php endif ?>
+  </li>
+  <?php endforeach ?>
+</ul>
