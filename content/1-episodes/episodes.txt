@@ -11,7 +11,3 @@ Libsynlink:
 ----
 
 Notes: 
-
-* Notes
-* Notes
-* Notes

@@ -2,7 +2,7 @@ Title: Contact
 
 ----
 
-Text:
+Text: 
 
 ## Get in touch
 

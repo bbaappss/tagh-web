@@ -1,5 +1,13 @@
-title: Episode 23 - Untitled
+Title: Episode 23 - Untitled
+
 ----
-notes: * Note One  * Note Two  * Note Three
+
+Notes: 
+
+* Notes
+* Notes
+* Notes
+
 ----
-libsynlink:
+
+Libsynlink: 

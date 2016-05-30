@@ -1,7 +1,5 @@
-Title: Projects
+Title: About
 
 ----
 
-Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
-
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+Text: Are two Ohio born and raised high school friends reuniting on air after five years apart in Los Angeles, CA. Brandon, a web developer, and Josh, a film editor, reminisce, share ideas and argue semantics while offering each other and their listeners boosts of confidence through encouragement and respect. Covering topics from the professional and personal lives of Josh, Brandon, and their peers, Things Are Gonna Happen is an emotionally comprehensive show that entertains fits of nostalgia, is optimistic about the future, and invites its listeners to be in on the joke.

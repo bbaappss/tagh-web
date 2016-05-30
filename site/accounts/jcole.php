@@ -7,4 +7,8 @@ email: me@joshuacole.net
 language: en
 role: admin
 history:
+  - themes/episode23
+  - themes
+  - contact
+  - about
   - episodes
