@@ -1,5 +1,17 @@
-title: Episodes
+Title: Episodes
+
 ----
-shownotes:
+
+Shownotes: 
+
 ----
-libsynlink:
+
+Libsynlink: 
+
+----
+
+Notes: 
+
+* Notes
+* Notes
+* Notes
